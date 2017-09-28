@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.5.1)
+  - LCRefresh (0.1.16)
+  - ReactiveSwift (2.0.1):
+    - Result (~> 3.2)
+  - Result (3.2.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - LCRefresh (~> 0.1.12)
+  - ReactiveSwift (~> 2.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  LCRefresh: 1f8e38a89d610017c2ac4260b2ab86cab2f8f06c
+  ReactiveSwift: 60a29ff35988a964fd2bb759755cb6594de523fc
+  Result: 128640a6347e8d2ae48b142556739a2d13f90ce6
+
+PODFILE CHECKSUM: 013837ab97a6d2171bea9e5e454ddecac6a5950b
+
+COCOAPODS: 1.2.1

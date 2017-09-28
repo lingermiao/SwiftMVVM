@@ -1,0 +1,6 @@
+framework module LCRefresh {
+  umbrella header "LCRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}
